@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="139" viewBox="0 0 118 139">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_5229" data-name="Rectángulo 5229" width="118" height="139" transform="translate(407 3049)" fill="#ffd947" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_67" data-name="Enmascarar grupo 67" transform="translate(-407 -3049)" clip-path="url(#clip-path)">
+    <g id="contrasena" transform="translate(407 3059.5)">
+      <path id="Trazado_102302" data-name="Trazado 102302" d="M76.1,30.172a16.982,16.982,0,0,0-33.964,0V59.981h8.536V30.172a8.445,8.445,0,1,1,16.891,0V59.319H76.1Z" fill="#e5e1e5"/>
+      <g id="XMLID_166_">
+        <g id="Grupo_54370" data-name="Grupo 54370">
+          <path id="Trazado_102303" data-name="Trazado 102303" d="M88.7,67.421q0,1.43-.138,2.829L86.215,92.886H30.595L29.68,70.25q-.11-1.152-.133-2.331A29.5,29.5,0,0,1,39.288,45.48a2.822,2.822,0,0,1,1.895-.726H77.055a2.831,2.831,0,0,1,1.9.728A29.5,29.5,0,0,1,88.7,67.421Z" fill="#0077ec"/>
+        </g>
+      </g>
+      <path id="Trazado_102304" data-name="Trazado 102304" d="M88.632,65.507H45.655a4.433,4.433,0,0,1-4.3-5.537,29.565,29.565,0,0,1,8.8-14.491,2.823,2.823,0,0,1,1.895-.726H41.182a2.823,2.823,0,0,0-1.895.726,29.5,29.5,0,0,0-9.741,22.439q.021,1.177.133,2.331l.915,22.636h55.62L88.558,70.25q.135-1.4.138-2.829c0-.643-.023-1.281-.064-1.914Z" fill="#004080"/>
+      <path id="Trazado_102305" data-name="Trazado 102305" d="M65.283,70.25,63.85,65.722a1.779,1.779,0,0,1,.336-1.67,6.567,6.567,0,1,0-10.139,0,1.786,1.786,0,0,1,.34,1.675L52.953,70.25l-2.281,6.492h17.25Z" fill="#ffd947"/>
+      <path id="Trazado_102306" data-name="Trazado 102306" d="M54.387,65.723,52.954,70.25l-2.281,6.492h17.25l-2.64-6.492L63.85,65.722a1.734,1.734,0,0,1-.053-.215H54.44a1.67,1.67,0,0,1-.053.216Z" fill="#f2c412"/>
+      <g id="Grupo_54372" data-name="Grupo 54372">
+        <path id="Trazado_102307" data-name="Trazado 102307" d="M111.841,104.81H6.159A6.159,6.159,0,0,1,0,98.651V76.409A6.159,6.159,0,0,1,6.159,70.25H111.841A6.159,6.159,0,0,1,118,76.409V98.651A6.159,6.159,0,0,1,111.841,104.81Z" fill="#efedef"/>
+        <g id="Grupo_54371" data-name="Grupo 54371">
+          <circle id="Elipse_4206" data-name="Elipse 4206" cx="4.334" cy="4.334" r="4.334" transform="translate(54.666 83.196)" fill="#0077ec"/>
+          <circle id="Elipse_4207" data-name="Elipse 4207" cx="4.334" cy="4.334" r="4.334" transform="translate(35.38 83.196)" fill="#0077ec"/>
+          <circle id="Elipse_4208" data-name="Elipse 4208" cx="4.334" cy="4.334" r="4.334" transform="translate(16.095 83.196)" fill="#0077ec"/>
+          <circle id="Elipse_4209" data-name="Elipse 4209" cx="4.334" cy="4.334" r="4.334" transform="translate(73.951 83.196)" fill="#0077ec"/>
+          <circle id="Elipse_4210" data-name="Elipse 4210" cx="4.334" cy="4.334" r="4.334" transform="translate(93.237 83.196)" fill="#0077ec"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
